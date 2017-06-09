@@ -21,6 +21,7 @@ var output = function(input) {
 $(document).ready(function() {
   $(".form").submit(function(event) {
     event.preventDefault();
+    $("#list").text("");
     var input = parseInt($("#userInput").val());
 
     var result = output(input);

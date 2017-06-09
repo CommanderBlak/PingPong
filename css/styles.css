@@ -51,3 +51,7 @@ body {
   padding: 0px;
   margin-bottom: 5px;
 }
+
+.results {
+  border: 10px;
+}
