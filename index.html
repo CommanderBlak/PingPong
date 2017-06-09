@@ -4,12 +4,13 @@
 <head>
   <meta charset="utf-8">
   <title>Ping Pong</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
-  <div class="container-fluid">
+  <div class="container-fluid" id="body">
     <div class="jumbotron text-center">
       <h1>Ping Pong</h1>
     </div>
@@ -38,20 +39,21 @@
       </form>
     </div>
     <div class="col-sm-3">
-      <div class="results">
-        <p>Results diplayed bellow:</p>
+      <div class="results text-align">
+        <h3>Results diplayed below:</h3>
         <ul id="list">
 
         </ul>
       </div>
     </div>
   </div>
-  <footer>
-    <div class="container-fluid text-center">
-      <p>Posted by: Wayne Mwandi</p>
-      <p>Contact information: <a href="mailto:mwandiwayn@gmail.com">Email me</a>.</p>
+  <nav class="navbar navbar-inverse navbar-bottom" id="footer">
+    <div class="container">
+      <div class="navbar-footer">
+        <p id="contact">Contact information: <a href="mailto:mwandiwayne@gmail.com">Email me</a>.</p>
+      </div>
     </div>
-  </footer>
+  </nav>
   <script src="js/jquery-3.2.1.min.js"></script>
   <script src="js/scripts.js"></script>
 </body>

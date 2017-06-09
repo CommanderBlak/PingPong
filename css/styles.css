@@ -27,5 +27,27 @@
 
 body {
   text-align: justify;
-  background-color: #grey;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  background-color: #d7e0ef;
+}
+
+#contact {
+  font-style: "Hevitica";
+  font-size: 32px;
+  color: white;
+}
+
+.navbar-footer {
+  margin-top: 10px;
+  padding-bottom: 0px;
+}
+
+#body {
+  padding-bottom: 5%
+}
+
+#footer {
+  padding: 0px;
+  margin-bottom: 5px;
 }
