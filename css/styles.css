@@ -1,0 +1,31 @@
+.jumbotron {
+  background-image: url('../img/pingpong.jpg');
+  background-size: cover;
+  background-position: 50% 45%;
+  background-repeat: no-repeat;
+  width: auto;
+  height: 500px;
+  color: white;
+}
+
+.jumbotron2 {
+  margin: auto;
+}
+
+.about {
+  color: red;
+  font-style: "Hevitica";
+}
+
+.col-sm-2 {
+  background-color: grey;
+}
+
+.col-sm-10 {
+  background-color: grey;
+}
+
+body {
+  text-align: justify;
+  background-color: #grey;
+}
