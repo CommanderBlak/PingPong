@@ -1,4 +1,4 @@
-Author: **Wayne Mwandi** 
+Author: **Wayne Mwandi**
 GitHub handle: **CommanderBlak**
 
 # Ping Pong
@@ -8,9 +8,9 @@ GitHub handle: **CommanderBlak**
 * Numbers divisible by 15 are replaced with "pingpong".
 ## Setup
 * Install by cloning this repository.
-* Open index.html in a browser 
+* Open index.html in a browser
 ##### OR
-* Click on this [link](https://CommanderBlack.github.io/PingPong) to access the gh-pages.
+* Click on this [link](https://CommanderBlak.github.io/PingPong) to access the gh-pages.
 ## Legal
 Copyright(c)2017 **Wayne Mwandi**
 This program is licensed under the MIT license.
