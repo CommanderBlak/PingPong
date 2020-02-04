@@ -12,5 +12,5 @@ GitHub handle: **CommanderBlak**
 ##### OR
 * Click on this [link](https://CommanderBlak.github.io/PingPong) to access the gh-pages.
 ## Legal
-Copyright(c)2017 **Wayne Mwandi**
+Copyright (c) 2017 **Wayne Mwandi**
 This program is licensed under the MIT license.
